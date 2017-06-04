@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="SECURITY" match-name="APP_USER"/>
+  <table-filter match-schema="SECURITY" match-name="APP_USER_USER_PROFILE"/>
+  <table-filter match-schema="SECURITY" match-name="PERSISTENT_LOGINS"/>
+  <table-filter match-schema="SECURITY" match-name="USER_PROFILE"/>
+</hibernate-reverse-engineering>
